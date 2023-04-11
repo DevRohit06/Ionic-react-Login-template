@@ -1,0 +1,33 @@
+ [
+        {
+            "id": "1",
+            "name": "Physics",
+            "img": "https://cdn-icons-png.flaticon.com/512/2999/2999463.png"
+        },
+        {
+            "id": "2",
+            "name": "Chemistry",
+            "img": "https://cdn-icons-png.flaticon.com/512/5596/5596317.png"
+        },
+        {
+            "id": "3",
+            "name": "Maths",
+            "img": "https://cdn-icons-png.flaticon.com/512/897/897368.png"
+        },
+        {
+            "id": "4",
+            "name": "Biology",
+            "img": "https://cdn-icons-png.flaticon.com/512/1548/1548285.png"
+        },
+        {
+            "id": "5",
+            "name": "English",
+            "img": "https://cdn-icons-png.flaticon.com/512/4928/4928796.png"
+        },
+        {
+            "id": "6",
+            "name": "It",
+            "img": "https://cdn-icons-png.flaticon.com/512/771/771247.png"
+        }
+    ]
+       
